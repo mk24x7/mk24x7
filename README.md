@@ -46,7 +46,7 @@ plus a command-line tool where that makes sense.
 - [truestats](https://github.com/marketplace/actions/truestats-profile-cards): a GitHub Action that renders profile
   stat cards from the GraphQL API with your own token, so private contributions count and
   nothing depends on a third-party server. The cards below come from it.
-- [janitor](https://github.com/mk24x7/janitor): audits every repository you own for
+- [janitor](https://github.com/marketplace/actions/repo-hygiene-janitor): audits every repository you own for
   missing descriptions, licenses and topics, stale forks and archive candidates, and fixes
   the safe ones. Dry run first, always.
 
