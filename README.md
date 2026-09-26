@@ -43,7 +43,7 @@ plus a command-line tool where that makes sense.
   network.
 - [Wake](https://github.com/mk24x7/wake): explains what woke your Mac, what is blocking
   sleep right now, which settings drain the battery, and battery health, in plain English.
-- [truestats](https://github.com/mk24x7/truestats): a GitHub Action that renders profile
+- [truestats](https://github.com/marketplace/actions/truestats-profile-cards): a GitHub Action that renders profile
   stat cards from the GraphQL API with your own token, so private contributions count and
   nothing depends on a third-party server. The cards below come from it.
 - [janitor](https://github.com/mk24x7/janitor): audits every repository you own for
