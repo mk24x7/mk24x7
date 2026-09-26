@@ -100,12 +100,12 @@ diagram-rendering fix in mermaid-js/mermaid.
 ## Stats
 
 <p align="center">
-  <img src="cards/stats.svg" width="49%" alt="GitHub stats for mk24x7, private contributions included" />
-  <img src="cards/languages.svg" width="49%" alt="Most used languages for mk24x7" />
+  <img align="top" src="cards/stats.svg" width="49%" alt="GitHub stats for mk24x7, private contributions included" />
+  <img align="top" src="cards/languages.svg" width="49%" alt="Most used languages for mk24x7" />
 </p>
 <p align="center">
-  <img src="cards/streak.svg" width="49%" alt="Contribution streak for mk24x7" />
-  <img src="cards/pin-mk24x7-prune.svg" width="49%" alt="mk24x7/prune" />
+  <img align="top" src="cards/streak.svg" width="49%" alt="Contribution streak for mk24x7" />
+  <img align="top" src="cards/pin-mk24x7-prune.svg" width="49%" alt="mk24x7/prune" />
 </p>
 
 <p align="center"><sub>Generated daily by <a href="https://github.com/mk24x7/truestats">truestats</a>.</sub></p>
