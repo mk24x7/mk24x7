@@ -99,16 +99,14 @@ diagram-rendering fix in mermaid-js/mermaid.
 
 ## Stats
 
-<table align="center">
-  <tr>
-    <td valign="top"><img src="cards/stats.svg" width="420" alt="GitHub stats for mk24x7, private contributions included" /></td>
-    <td valign="top"><img src="cards/streak.svg" width="420" alt="Contribution streak for mk24x7" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="cards/languages.svg" width="420" alt="Most used languages for mk24x7" /></td>
-    <td valign="top"><img src="cards/pin-mk24x7-prune.svg" width="420" alt="mk24x7/prune" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="cards/stats.svg" width="49%" alt="GitHub stats for mk24x7, private contributions included" />
+  <img src="cards/languages.svg" width="49%" alt="Most used languages for mk24x7" />
+</p>
+<p align="center">
+  <img src="cards/streak.svg" width="49%" alt="Contribution streak for mk24x7" />
+  <img src="cards/pin-mk24x7-prune.svg" width="49%" alt="mk24x7/prune" />
+</p>
 
 <p align="center"><sub>Generated daily by <a href="https://github.com/mk24x7/truestats">truestats</a>.</sub></p>
 
