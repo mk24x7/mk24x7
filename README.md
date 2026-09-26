@@ -25,10 +25,30 @@ I like small tools that remove a problem you had stopped noticing.
 
 ## Tools I build
 
-- [Prune](https://github.com/mk24x7/prune): native macOS app and CLI that finds and
-  safely removes regenerable developer artifacts and caches.
-- More in the same spirit are on the way. Each one is a single-purpose utility
-  for a problem developers live with by habit.
+Small, single-purpose utilities for problems developers live with by habit. Each one is
+open source, read-only unless you tell it otherwise, and ships as a native macOS app
+plus a command-line tool where that makes sense.
+
+- [Prune](https://github.com/mk24x7/prune): finds and safely removes regenerable
+  developer artifacts and caches: node_modules, Rust target, Xcode DerivedData, Homebrew,
+  pnpm, Go and 40 more. Trash by default.
+- [Stale](https://github.com/mk24x7/stale): finds the git work on your Mac that exists
+  nowhere else: uncommitted changes, unpushed commits, branches with no upstream, stashes,
+  repos with no remote.
+- [Shadow](https://github.com/mk24x7/shadow): shows which node, python, ruby, java and go
+  actually run in each shell, every shadowed copy, and the rc-file line that made the
+  winner win.
+- [Histclean](https://github.com/mk24x7/histclean): finds API keys, tokens and passwords
+  sitting in your shell history and redacts them in place. Offline, never touches the
+  network.
+- [Wake](https://github.com/mk24x7/wake): explains what woke your Mac, what is blocking
+  sleep right now, which settings drain the battery, and battery health, in plain English.
+- [truestats](https://github.com/mk24x7/truestats): a GitHub Action that renders profile
+  stat cards from the GraphQL API with your own token, so private contributions count and
+  nothing depends on a third-party server. The cards below come from it.
+- [janitor](https://github.com/mk24x7/janitor): audits every repository you own for
+  missing descriptions, licenses and topics, stale forks and archive candidates, and fixes
+  the safe ones. Dry run first, always.
 
 ## Open source
 
