@@ -19,3 +19,4 @@ jobs:
           cards: stats,languages,streak
           pins: mk24x7/prune
           theme: dark
+          layout: "stats,languages;streak,pin"
