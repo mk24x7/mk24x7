@@ -1,0 +1,21 @@
+name: truestats
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: mk24x7/truestats@v1
+        with:
+          token: ${{ secrets.TRUESTATS_TOKEN || github.token }}
+          cards: stats,languages,streak
+          pins: mk24x7/prune
+          theme: dark

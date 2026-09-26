@@ -77,6 +77,17 @@ diagram-rendering fix in mermaid-js/mermaid.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## Stats
+
+<div align="center">
+  <img src="cards/stats.svg" alt="GitHub stats for mk24x7, private contributions included" />
+  <img src="cards/streak.svg" alt="Contribution streak for mk24x7" />
+  <img src="cards/languages.svg" alt="Most used languages for mk24x7" />
+  <img src="cards/pin-mk24x7-prune.svg" alt="mk24x7/prune" />
+  <br />
+  <sub>Generated daily by <a href="https://github.com/mk24x7/truestats">truestats</a>.</sub>
+</div>
+
 ## Before engineering
 
 I taught astronomy and space science, led a sales team, and ran my own digital
