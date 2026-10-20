@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="266" viewBox="0 0 480 266" role="img" aria-labelledby="truestats-languages-title truestats-languages-desc">
   <title id="truestats-languages-title">Most used languages</title>
-  <desc id="truestats-languages-desc">PHP 46.0%, JavaScript 22.8%, CSS 8.8%, TypeScript 8.4%, Dart 2.9%, Makefile 2.8%, Liquid 2.5%, HTML 2.2%, Other 3.7%</desc>
+  <desc id="truestats-languages-desc">PHP 45.3%, JavaScript 22.4%, TypeScript 9.8%, CSS 8.6%, Dart 2.9%, Makefile 2.8%, Liquid 2.5%, HTML 2.2%, Other 3.6%</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; }
     .title { font-size: 16px; font-weight: 600; fill: #e6edf3; }
@@ -19,35 +19,35 @@
   </defs>
   <rect x="24" y="54" width="432" height="10" rx="5" fill="#21262d"/>
   <g clip-path="url(#truestats-lang-bar)">
-    <rect x="24.00" y="54" width="198.60" height="10" fill="#4F5D95"/>
-    <rect x="222.60" y="54" width="98.29" height="10" fill="#f1e05a"/>
-    <rect x="320.89" y="54" width="37.84" height="10" fill="#663399"/>
-    <rect x="358.73" y="54" width="36.35" height="10" fill="#3178c6"/>
-    <rect x="395.08" y="54" width="12.61" height="10" fill="#00B4AB"/>
-    <rect x="407.69" y="54" width="12.10" height="10" fill="#427819"/>
-    <rect x="419.79" y="54" width="10.92" height="10" fill="#67b8de"/>
-    <rect x="430.71" y="54" width="9.50" height="10" fill="#e34c26"/>
-    <rect x="440.21" y="54" width="15.79" height="10" fill="#8b949e"/>
+    <rect x="24.00" y="54" width="195.55" height="10" fill="#4F5D95"/>
+    <rect x="219.55" y="54" width="96.88" height="10" fill="#f1e05a"/>
+    <rect x="316.43" y="54" width="42.39" height="10" fill="#3178c6"/>
+    <rect x="358.83" y="54" width="37.24" height="10" fill="#663399"/>
+    <rect x="396.07" y="54" width="12.41" height="10" fill="#00B4AB"/>
+    <rect x="408.48" y="54" width="11.92" height="10" fill="#427819"/>
+    <rect x="420.40" y="54" width="10.75" height="10" fill="#67b8de"/>
+    <rect x="431.15" y="54" width="9.30" height="10" fill="#e34c26"/>
+    <rect x="440.45" y="54" width="15.55" height="10" fill="#8b949e"/>
   </g>
   <g>
     <circle cx="29" cy="88" r="5" fill="#4F5D95"/>
     <text x="40" y="92" class="body">PHP</text>
-    <text x="228" y="92" class="label" text-anchor="end">46.0%</text>
+    <text x="228" y="92" class="label" text-anchor="end">45.3%</text>
   </g>
   <g>
     <circle cx="245" cy="88" r="5" fill="#f1e05a"/>
     <text x="256" y="92" class="body">JavaScript</text>
-    <text x="444" y="92" class="label" text-anchor="end">22.8%</text>
+    <text x="444" y="92" class="label" text-anchor="end">22.4%</text>
   </g>
   <g>
-    <circle cx="29" cy="112" r="5" fill="#663399"/>
-    <text x="40" y="116" class="body">CSS</text>
-    <text x="228" y="116" class="label" text-anchor="end">8.8%</text>
+    <circle cx="29" cy="112" r="5" fill="#3178c6"/>
+    <text x="40" y="116" class="body">TypeScript</text>
+    <text x="228" y="116" class="label" text-anchor="end">9.8%</text>
   </g>
   <g>
-    <circle cx="245" cy="112" r="5" fill="#3178c6"/>
-    <text x="256" y="116" class="body">TypeScript</text>
-    <text x="444" y="116" class="label" text-anchor="end">8.4%</text>
+    <circle cx="245" cy="112" r="5" fill="#663399"/>
+    <text x="256" y="116" class="body">CSS</text>
+    <text x="444" y="116" class="label" text-anchor="end">8.6%</text>
   </g>
   <g>
     <circle cx="29" cy="136" r="5" fill="#00B4AB"/>
@@ -72,7 +72,7 @@
   <g>
     <circle cx="29" cy="184" r="5" fill="#8b949e"/>
     <text x="40" y="188" class="body">Other</text>
-    <text x="228" y="188" class="label" text-anchor="end">3.7%</text>
+    <text x="228" y="188" class="label" text-anchor="end">3.6%</text>
   </g>
   </g>
   <g transform="translate(0 26)">
