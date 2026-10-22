@@ -49,11 +49,12 @@ plus a command-line tool where that makes sense.
 - [janitor](https://github.com/marketplace/actions/repo-hygiene-janitor): audits every repository you own for
   missing descriptions, licenses and topics, stale forks and archive candidates, and fixes
   the safe ones. Dry run first, always.
+
+## Open source
+
 - [Clean TV](https://github.com/mk24x7/cleantv): a lean home screen for old Android TVs with 1 GB
   of RAM. Inputs, free live channels, your apps, canvas screensavers, and a send-to-TV page that
   streams video from your phone without uploading it. Kotlin, no AndroidX, no background services.
-
-## Open source
 
 Recent upstream work includes CI improvements in kubernetes/minikube and a
 diagram-rendering fix in mermaid-js/mermaid.
