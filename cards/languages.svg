@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="266" viewBox="0 0 480 266" role="img" aria-labelledby="truestats-languages-title truestats-languages-desc">
   <title id="truestats-languages-title">Most used languages</title>
-  <desc id="truestats-languages-desc">PHP 45.1%, JavaScript 22.4%, TypeScript 9.9%, CSS 8.6%, Dart 2.9%, Makefile 2.8%, Liquid 2.5%, HTML 2.2%, Other 3.7%</desc>
+  <desc id="truestats-languages-desc">PHP 45.1%, JavaScript 22.4%, TypeScript 10.0%, CSS 8.6%, Dart 2.9%, Makefile 2.7%, Liquid 2.5%, HTML 2.2%, Other 3.7%</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; }
     .title { font-size: 16px; font-weight: 600; fill: #e6edf3; }
@@ -19,15 +19,15 @@
   </defs>
   <rect x="24" y="54" width="432" height="10" rx="5" fill="#21262d"/>
   <g clip-path="url(#truestats-lang-bar)">
-    <rect x="24.00" y="54" width="195.05" height="10" fill="#4F5D95"/>
-    <rect x="219.05" y="54" width="96.63" height="10" fill="#f1e05a"/>
-    <rect x="315.68" y="54" width="42.92" height="10" fill="#3178c6"/>
-    <rect x="358.60" y="54" width="37.15" height="10" fill="#663399"/>
-    <rect x="395.75" y="54" width="12.38" height="10" fill="#00B4AB"/>
-    <rect x="408.13" y="54" width="11.89" height="10" fill="#427819"/>
-    <rect x="420.02" y="54" width="10.72" height="10" fill="#67b8de"/>
-    <rect x="430.74" y="54" width="9.43" height="10" fill="#e34c26"/>
-    <rect x="440.17" y="54" width="15.83" height="10" fill="#8b949e"/>
+    <rect x="24.00" y="54" width="194.92" height="10" fill="#4F5D95"/>
+    <rect x="218.92" y="54" width="96.57" height="10" fill="#f1e05a"/>
+    <rect x="315.49" y="54" width="43.17" height="10" fill="#3178c6"/>
+    <rect x="358.66" y="54" width="37.12" height="10" fill="#663399"/>
+    <rect x="395.79" y="54" width="12.37" height="10" fill="#00B4AB"/>
+    <rect x="408.16" y="54" width="11.88" height="10" fill="#427819"/>
+    <rect x="420.04" y="54" width="10.71" height="10" fill="#67b8de"/>
+    <rect x="430.75" y="54" width="9.42" height="10" fill="#e34c26"/>
+    <rect x="440.18" y="54" width="15.82" height="10" fill="#8b949e"/>
   </g>
   <g>
     <circle cx="29" cy="88" r="5" fill="#4F5D95"/>
@@ -42,7 +42,7 @@
   <g>
     <circle cx="29" cy="112" r="5" fill="#3178c6"/>
     <text x="40" y="116" class="body">TypeScript</text>
-    <text x="228" y="116" class="label" text-anchor="end">9.9%</text>
+    <text x="228" y="116" class="label" text-anchor="end">10.0%</text>
   </g>
   <g>
     <circle cx="245" cy="112" r="5" fill="#663399"/>
@@ -57,7 +57,7 @@
   <g>
     <circle cx="245" cy="136" r="5" fill="#427819"/>
     <text x="256" y="140" class="body">Makefile</text>
-    <text x="444" y="140" class="label" text-anchor="end">2.8%</text>
+    <text x="444" y="140" class="label" text-anchor="end">2.7%</text>
   </g>
   <g>
     <circle cx="29" cy="160" r="5" fill="#67b8de"/>
