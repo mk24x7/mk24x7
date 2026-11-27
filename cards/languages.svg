@@ -19,14 +19,14 @@
   </defs>
   <rect x="24" y="54" width="432" height="10" rx="5" fill="#21262d"/>
   <g clip-path="url(#truestats-lang-bar)">
-    <rect x="24.00" y="54" width="190.92" height="10" fill="#4F5D95"/>
-    <rect x="214.92" y="54" width="94.67" height="10" fill="#f1e05a"/>
-    <rect x="309.58" y="54" width="49.03" height="10" fill="#3178c6"/>
-    <rect x="358.62" y="54" width="36.45" height="10" fill="#663399"/>
-    <rect x="395.07" y="54" width="12.12" height="10" fill="#00B4AB"/>
-    <rect x="407.19" y="54" width="11.64" height="10" fill="#427819"/>
-    <rect x="418.83" y="54" width="10.49" height="10" fill="#67b8de"/>
-    <rect x="429.32" y="54" width="9.32" height="10" fill="#e34c26"/>
+    <rect x="24.00" y="54" width="190.88" height="10" fill="#4F5D95"/>
+    <rect x="214.88" y="54" width="94.65" height="10" fill="#f1e05a"/>
+    <rect x="309.53" y="54" width="49.10" height="10" fill="#3178c6"/>
+    <rect x="358.63" y="54" width="36.45" height="10" fill="#663399"/>
+    <rect x="395.08" y="54" width="12.12" height="10" fill="#00B4AB"/>
+    <rect x="407.20" y="54" width="11.64" height="10" fill="#427819"/>
+    <rect x="418.84" y="54" width="10.49" height="10" fill="#67b8de"/>
+    <rect x="429.33" y="54" width="9.32" height="10" fill="#e34c26"/>
     <rect x="438.65" y="54" width="17.35" height="10" fill="#8b949e"/>
   </g>
   <g>
